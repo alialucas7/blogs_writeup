@@ -1,16 +1,16 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "es"
+languageName = "Español"
 weight = 1
 title = "./luc4s"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ES"
+  isoCode = "es"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+ # logo = "profile.jpg"
+  #secondaryLogo = "profile.jpg"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -18,9 +18,9 @@ title = "./luc4s"
    name = "luc4s"
    email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
-   image = "profile.jpg"
+   image = "profile3.png"
    imageQuality = 96
-   headline = "I'm only human"
+   headline = "Un licenciado que aprende a romper cosas en el mundo digital, en lugar de arreglarlas en el mundo fisico"
    bio = "A little bit about you aaa a a "
    links = [
 #     { email = "mailto:hello@your_domain.com" },
@@ -40,6 +40,7 @@ title = "./luc4s"
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
+#      { hackthebox = "https://"}
 #     { instagram = "https://instagram.com/username" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
