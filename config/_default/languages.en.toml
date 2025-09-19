@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "./luc4s"
 
 [params]
   displayName = "EN"
@@ -21,7 +21,7 @@ title = "Blowfish"
    image = "profile.jpg"
    imageQuality = 96
    headline = "I'm only human"
-   bio = "A little bit about you"
+   bio = "A little bit about you aaa a a "
    links = [
 #     { email = "mailto:hello@your_domain.com" },
      { link = "https://alialucas7.github.io/portofolio/" },
