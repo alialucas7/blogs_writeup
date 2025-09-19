@@ -30,7 +30,7 @@ jobs:
         run:  hugo -E -F --minify -d public
 
       - name: Deploy preview
-      - uses: FirebaseExtended/action-hosting-deploy@v0
+        uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ALIALUCAS7_4945E }}
