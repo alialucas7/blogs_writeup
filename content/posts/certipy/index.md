@@ -152,7 +152,7 @@ Antes de atacar, debemos identificar las plantillas de certificado vulnerables. 
     src="certify.PNG"
 >}}
 
-En mi perfil de `linkeidn` escribi un documento detallado de como explotar este Laboratorio
+En mi perfil de `linkedin` escribi un documento detallado de como explotar este Laboratorio
 * https://www.linkedin.com/posts/alialucas7_escalar-privilegios-en-ad-activity-7378797924853383168-UXrr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQun-8BxRVo8BKF0p3LwWSGQNB62RxOZ78
 </br>Te invito a leerlo y dejarme una interaccion si te gusto.
 * Gracias por leer hasta aca
