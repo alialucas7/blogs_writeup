@@ -346,7 +346,7 @@ Ahora intentamos desencriptar los archivos de backup
 {{< figure
 src="20.png"
 >}}
-Ahora que el archivo ya se encuentra legile, busquemos contraseñas
+Ahora que el archivo ya se encuentra legible, busquemos contraseñas
 
 
 {{< figure
